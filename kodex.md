@@ -35,7 +35,9 @@ které podle zvláštních předpisů podléhají zvláštníochraně.
 poslaneckou/senátorskou imunitu a požádá příslušný parlamentní výbor, aby neprodleně navrhl jeho
 vydání. Jedinou výjimku v tomto ohledu tvoří případné stíhání za politické projevy pronesené na půdě
 Parlamentu ČR.
-10. Reprezentant, proti němuž je zahájeno trestní stíhání, neprodleně rezignuje na volený mandát, na svou funkci ve Hnutí a na členství ve Hnutí.
+10. Reprezentant, proti němuž je podána obžaloba pro úmyslný trestný čin nebo nedbalostní trestný
+čin spáchaný v souvislosti a ve spojení s výkonem veřejné funkce, neprodleně rezignuje na volený
+mandát, na svou funkci ve Hnutí a na členství ve Hnutí.
 11. V případě závažného či opakovaného porušení Kodexu a po projednání tohoto porušení v
 Rozhodčí a smírčí komisi Hnutí Reprezentant neprodleně rezignuje na volený mandát, na svou funkci ve
 Hnutí a na členství ve Hnutí.
